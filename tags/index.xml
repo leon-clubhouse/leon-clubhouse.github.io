@@ -1,64 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Your site title</title>
+    <title>Tags on 读书记录</title>
     <link>https://leon-clubhouse.github.io/tags/</link>
-    <description>Recent content in Tags on Your site title</description>
+    <description>Recent content in Tags on 读书记录</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://leon-clubhouse.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Copyright 2021</copyright>
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://leon-clubhouse.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>development</title>
-      <link>https://leon-clubhouse.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>百年孤独</title>
+      <link>https://leon-clubhouse.github.io/tags/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://leon-clubhouse.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>https://leon-clubhouse.github.io/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://leon-clubhouse.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://leon-clubhouse.github.io/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://leon-clubhouse.github.io/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://leon-clubhouse.github.io/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://leon-clubhouse.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>https://leon-clubhouse.github.io/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://leon-clubhouse.github.io/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://leon-clubhouse.github.io/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://leon-clubhouse.github.io/tags/themes/</guid>
+      <guid>https://leon-clubhouse.github.io/tags/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/</guid>
       <description></description>
     </item>
     

@@ -2,64 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leon-clubhouse.github.io/posts/figure-zoom-sample/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/posts/hiding-the-date/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/posts/image-zoom-sample/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://leon-clubhouse.github.io/posts/solitude13-14/</loc>
+    <lastmod>2021-05-29T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://leon-clubhouse.github.io/posts/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-29T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://leon-clubhouse.github.io/tags/</loc>
+    <lastmod>2021-05-29T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://leon-clubhouse.github.io/tags/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/</loc>
+    <lastmod>2021-05-29T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://leon-clubhouse.github.io/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-29T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://leon-clubhouse.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://leon-clubhouse.github.io/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://leon-clubhouse.github.io/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leon-clubhouse.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>

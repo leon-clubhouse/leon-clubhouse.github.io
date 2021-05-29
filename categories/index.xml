@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Your site title</title>
+    <title>Categories on 读书记录</title>
     <link>https://leon-clubhouse.github.io/categories/</link>
-    <description>Recent content in Categories on Your site title</description>
+    <description>Recent content in Categories on 读书记录</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://leon-clubhouse.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>https://leon-clubhouse.github.io/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://leon-clubhouse.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://leon-clubhouse.github.io/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://leon-clubhouse.github.io/categories/golang/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>&amp;copy; Copyright 2021</copyright><atom:link href="https://leon-clubhouse.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
